@@ -1,0 +1,101 @@
+﻿Rank,City,State,Region,Score
+1,"Seattle, WA",WA,North West,69.44
+2,"New York, NY",NY,Mid Atlantic,67.42
+3,"San Francisco, CA",CA,West,65.31
+4,"Portland, OR",OR,North West,64.88
+5,"Los Angeles, CA",CA,West,60.23
+6,"Chicago, IL",IL,Mid West,57.09
+7,"Washington, DC",DC,Mid Atlantic,54.26
+8,"Miami, FL",FL,South East,53.6
+9,"San Diego, CA",CA,West,51.04
+10,"Boston, MA",MA,North East,48.61
+11,"Philadelphia, PA",PA,Mid Atlantic,47.31
+12,"Atlanta, GA",GA,South East,47.31
+13,"Denver, CO",CO,South West,47.2
+14,"Las Vegas, NV",NV,West,46.93
+15,"Orlando, FL",FL,South East,45.87
+16,"Minneapolis, MN",MN,Mid West,44.9
+17,"Oakland, CA",CA,West,44.71
+18,"Tampa, FL",FL,South East,44.36
+19,"Pittsburgh, PA",PA,Mid Atlantic,44.3
+20,"Austin, TX",TX,South West,43.75
+21,"Long Beach, CA",CA,West,43.17
+22,"Honolulu, HI",HI,Pacific,42.54
+23,"Jersey City, NJ",NJ,Mid Atlantic,40.15
+24,"Plano, TX",TX,South West,40.13
+25,"Fremont, CA",CA,West,39.84
+26,"Irvine, CA",CA,West,39.47
+27,"San Jose, CA",CA,West,39.39
+28,"Scottsdale, AZ",AZ,South West,39.01
+29,"Raleigh, NC",NC,South East,38.38
+30,"Dallas, TX",TX,South West,37.95
+31,"Houston, TX",TX,South West,37.79
+32,"New Orleans, LA",LA,South East,37.26
+33,"Boise, ID",ID,North West,36.79
+34,"Anaheim, CA",CA,West,36.68
+35,"Newark, NJ",NJ,Mid Atlantic,35.22
+36,"Aurora, CO",CO,South West,34.96
+37,"Baltimore, MD",MD,Mid Atlantic,34.46
+38,"Phoenix, AZ",AZ,South West,33.83
+39,"Sacramento, CA",CA,West,33.66
+40,"Louisville, KY",KY,Mid West,33.35
+41,"Lincoln, NE",NE,Mid West,33.17
+42,"St. Louis, MO",MO,Mid West,33.13
+43,"Fort Worth, TX",TX,South West,33.11
+44,"St. Paul, MN",MN,Mid West,32.87
+45,"Omaha, NE",NE,Mid West,32.57
+46,"Chandler, AZ",AZ,South West,32.52
+47,"Santa Ana, CA",CA,West,32.47
+48,"Colorado Springs, CO",CO,South West,32.3
+49,"Nashville, TN",TN,South East,32.16
+50,"Kansas City, MO",MO,Mid West,32.08
+51,"Cincinnati, OH",OH,Mid West,31.8
+52,"Irving, TX",TX,South West,31.59
+53,"San Antonio, TX",TX,South West,31.47
+54,"Charlotte, NC",NC,South East,31.2
+55,"Madison, WI",WI,Mid West,31.14
+56,"Tucson, AZ",AZ,South West,31.03
+57,"Garland, TX",TX,South West,30.43
+58,"Virginia Beach, VA",VA,Mid Atlantic,30.39
+59,"Gilbert, AZ",AZ,South West,30.18
+60,"Oklahoma City, OK",OK,South West,29.91
+61,"Anchorage, AK",AK,Pacific,29.85
+62,"Arlington, TX",TX,South West,29.77
+63,"Tulsa, OK",OK,South West,29.44
+64,"Durham, NC",NC,South East,29.26
+65,"Milwaukee, WI",WI,Mid West,29.06
+66,"Reno, NV",NV,West,28.84
+67,"Bakersfield, CA",CA,West,28.5
+68,"Albuquerque, NM",NM,South West,28.27
+69,"St. Petersburg, FL",FL,South East,27.92
+70,"Buffalo, NY",NY,Mid Atlantic,27.85
+71,"Lexington-Fayette, KY",KY,Mid West,27.71
+72,"Chula Vista, CA",CA,West,27.41
+73,"Riverside, CA",CA,West,27.32
+74,"Indianapolis, IN",IN,Mid West,27.32
+75,"Norfolk, VA",VA,Mid Atlantic,27.29
+76,"Henderson, NV",NV,West,27.21
+77,"Hialeah, FL",FL,South East,26.95
+78,"Jacksonville, FL",FL,South East,26.93
+79,"Corpus Christi, TX",TX,South West,26.27
+80,"Mesa, AZ",AZ,South West,26.07
+81,"Chesapeake, VA",VA,Mid Atlantic,25.91
+82,"Lubbock, TX",TX,South West,25.83
+83,"Fort Wayne, IN",IN,Mid West,24.87
+84,"Cleveland, OH",OH,Mid West,24.62
+85,"El Paso, TX",TX,South West,24.26
+86,"Columbus, OH",OH,Mid West,24.16
+87,"Glendale, AZ",AZ,South West,24.15
+88,"Wichita, KS",KS,Mid West,23.91
+89,"Baton Rouge, LA",LA,South East,23.84
+90,"Fresno, CA",CA,West,23.61
+91,"North Las Vegas, NV",NV,West,22.88
+92,"Stockton, CA",CA,West,22.39
+93,"Winston-Salem, NC",NC,South East,22.32
+94,"Birmingham, AL",AL,South East,22.27
+95,"Memphis, TN",TN,South East,22.01
+96,"San Bernardino, CA",CA,West,20.06
+97,"Detroit, MI",MI,South East,19.76
+98,"Laredo, TX",TX,South West,19.02
+99,"Greensboro, NC",NC,South East,17.25
+100,"Toledo, OH",OH,Mid West,15.59
